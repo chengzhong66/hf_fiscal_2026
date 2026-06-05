@@ -1,17 +1,13 @@
 # HF Fiscal 2026
 
-This repository contains an inherited Python research project for sovereign/fiscal crisis forecasting. The codebase is currently an archive of successive single-file modeling scripts rather than a packaged application. The immediate goal is therefore not to collapse everything into the latest script, but to understand the author's modeling process, what changed across versions, and which files are likely candidates for future cleanup.
+This repository contains an Python research project for sovereign/fiscal crisis forecasting.
 
 ## Current State
 
 - Repository: `chengzhong66/hf_fiscal_2026`
-- Local working path: `/Users/cz/base/40_code/projects/hf_fiscal_2026`
+- Local working path:
 - Git branch: `main`
 - Remote: `https://github.com/chengzhong66/hf_fiscal_2026.git`
-- Current tracked files: versioned Python scripts plus `Mapping.csv` and `Mapping.xlsx`
-- Missing runtime input: `fiscal_data_HF_monthly_2025-09-15.csv`
-
-The repo has no package structure, no tests, and no original README yet. Most scripts are independent versions of a large analysis pipeline, with later versions reusing and extending earlier code.
 
 ## High-Level Purpose
 
@@ -62,7 +58,6 @@ Each predictor also has a monotonicity sign used by constrained gradient boostin
 
 ## Version Evolution
 
-The filenames are the best available history because the git repo currently has a single initial commit. The scripts suggest a rapid research iteration cycle from February to May 2026.
 
 ### Phase 1: Early Monthly Crisis Engine
 
