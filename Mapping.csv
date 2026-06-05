@@ -1,0 +1,197 @@
+country,Country_Name,IFS,income,Area,G20,Reference currency,EU,CEMAC,WAEMU ,ECCU,HARD PEG to USD,HARD PEG TO EURO,HARD PEG TO AUS DOLLAR,HARD PEG TO STH AFR RAND,HARD PEG TO INDIAN RUPEE,HARD PEG TO...,Managed,RESERVES POLICY
+"Afghanistan, I.S. of",Afghanistan,512,LIC,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Albania,Albania,914,EM,EUR,0,EUR,0,0,0,0,0,0,0,0,0,0,0,1
+Algeria,Algeria,612,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Angola,Angola,614,EM,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Anguilla,Anguilla,312,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+Antigua and Barbuda,Antigua and Barbuda,311,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+Argentina,Argentina,213,EM,WHD,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Armenia,Armenia,911,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Aruba,Aruba,314,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Australia,Australia,193,AE,APD,1,USD,0,0,0,0,0,0,0,0,0,0,0,0
+Austria,Austria,122,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Azerbaijan,Azerbaijan,912,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+"Bahamas, The",Bahamas,313,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Bahrain,Bahrain,419,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Bangladesh,Bangladesh,513,LIC,APD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Barbados,Barbados,316,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Belarus,Belarus,913,EM,EUR,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Belgium,Belgium,124,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Belize,Belize,339,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Benin,Benin,638,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Bhutan,Bhutan,514,LIC,APD,0,INR,0,0,0,0,0,0,0,0,1,1,0,1
+Bolivia,Bolivia,218,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Bosnia&Herzegovina,Bosnia&Herzegovina,963,EM,EUR,0,EUR,0,0,0,0,0,0,0,0,0,0,0,1
+Botswana,Botswana,616,EM,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Brazil,Brazil,223,EM,WHD,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Brunei Darussalam,Brunei,516,EM,APD,0,USD,0,0,0,0,1,0,0,0,1,1,0,1
+Bulgaria,Bulgaria,918,EM,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,1
+Burkina Faso,Burkina Faso,748,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Burundi,Burundi,618,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Cambodia,Cambodia,522,LIC,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Cameroon,Cameroon,622,LIC,AFR,0,EUR,0,1,0,0,0,1,0,0,0,1,0,0
+Canada,Canada,156,AE,WHD,1,USD,0,0,0,0,0,0,0,0,0,0,0,0
+Cape Verde,Cape Verde,624,EM,AFR,0,EUR,0,0,0,0,0,1,0,0,0,1,0,1
+Central African Republic,CAR,626,LIC,AFR,0,EUR,0,1,0,0,0,1,0,0,0,1,0,0
+Chad,Chad,628,LIC,AFR,0,EUR,0,1,0,0,0,1,0,0,0,1,0,0
+Chile,Chile,228,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+China,China,924,EM,APD,1,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Colombia,Colombia,233,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Comoros,Comoros,632,LIC,AFR,0,EUR,0,0,0,0,0,1,0,0,0,1,0,1
+"Congo, Dem. Rep. of",RDC,636,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,0
+"Congo, Republic of",Congo,634,LIC,AFR,0,EUR,0,1,0,0,0,1,0,0,0,1,0,0
+Costa Rica,Costa Rica,238,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Côte d'Ivoire,Côte d'Ivoire,662,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Croatia,Croatia,960,AE,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,0
+Cyprus,Cyprus,423,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Czech Republic,Czech Republic,935,AE,EUR,0,EUR,1,0,0,0,0,0,0,0,0,0,0,1
+Denmark,Denmark,128,AE,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,0
+Djibouti,Djibouti,611,LIC,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Dominica,Dominica,321,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+Dominican Republic,Dominican Rep,243,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Ecuador,Ecuador,248,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Egypt,Egypt,469,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+El Salvador,El Salvador,253,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Equatorial Guinea,Equatorial Guinea,642,EM,AFR,0,EUR,0,1,0,0,0,1,0,0,0,1,0,1
+Eritrea,Eritrea,643,LIC,AFR,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Estonia,Estonia,939,AE,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,0
+Ethiopia,Ethiopia,644,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Fiji,Fiji,819,EM,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Finland,Finland,172,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+France,France,132,AE,EUR,1,USD,1,0,0,0,0,1,0,0,0,1,0,0
+French Polynesia,French Polynesia,887,EM,APD,0,USD,0,0,0,0,0,1,0,0,0,1,0,0
+Gabon,Gabon,646,EM,AFR,0,EUR,0,1,0,0,0,1,0,0,0,1,0,1
+"Gambia, The",Gambia,648,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Georgia,Georgia,915,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Germany,Germany,134,AE,EUR,1,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Ghana,Ghana,652,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Greece,Greece,174,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Grenada,Grenada,328,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+Guatemala,Guatemala,258,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Guinea,Guinea,656,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Guinea-Bissau,Guinea-Bissau,654,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Guyana,Guyana,336,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Haiti,Haiti,263,LIC,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Honduras,Honduras,268,LIC,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Hong Kong SAR,HK SAR,532,AE,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Hungary,Hungary,944,EM,EUR,0,EUR,1,0,0,0,0,0,0,0,0,0,0,1
+Iceland,Iceland,176,AE,EUR,0,USD,0,0,0,0,0,0,0,0,0,0,0,0
+India,India,534,EM,APD,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Indonesia,Indonesia,536,EM,APD,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Iran,Iran,429,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Iraq,Iraq,433,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Ireland,Ireland,178,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Israel,Israel,436,AE,EUR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Italy,Italy,136,AE,EUR,1,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Jamaica,Jamaica,343,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Japan,Japan,158,AE,APD,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Jordan,Jordan,439,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Kazakhstan,Kazakhstan,916,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Kenya,Kenya,664,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Kiribati,Kiribati,826,LIC,APD,0,AUD,0,0,0,0,0,0,1,0,0,1,0,1
+Korea,Korea,542,AE,APD,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Kosovo,Kosovo,967,EM,EUR,0,EUR,0,0,0,0,0,1,0,0,0,1,0,1
+Kuwait,Kuwait,443,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Kyrgyz Republic,Kyrgyzstan,917,LIC,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Lao PDR,Laos,544,LIC,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Latvia,Latvia,941,AE,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,0
+Lebanon,Lebanon,446,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Lesotho,Lesotho,666,LIC,AFR,0,ZAF,0,0,0,0,0,0,0,1,0,1,0,1
+Liberia,Liberia,668,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Libya,Libya,672,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Lithuania,Lithuania,946,AE,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,0
+Luxembourg,Luxembourg,137,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Macao SAR,Macao SAR,546,AE,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Macedonia,Macedonia,962,EM,EUR,0,EUR,0,0,0,0,0,1,0,0,0,1,0,1
+Madagascar,Madagascar,674,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Malawi,Malawi,676,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Malaysia,Malaysia,548,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Maldives,Maldives,556,EM,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Mali,Mali,678,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Malta,Malta,181,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Marshall Islands,Marshall Islands,867,EM,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Mauritania,Mauritania,682,LIC,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Mauritius,Mauritius,684,EM,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Mexico,Mexico,273,EM,WHD,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+"Micronesia, Fed. States of",Micronesia,868,EM,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Moldova,Moldova,921,LIC,EUR,0,EUR,0,0,0,0,0,0,0,0,0,0,1,1
+Mongolia,Mongolia,948,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+"Montenegro, Rep. of",Montenegro,943,EM,EUR,0,EUR,0,0,0,0,0,1,0,0,0,1,0,1
+Montserrat,Montserrat,351,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+Morocco,Morocco,686,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Mozambique,Mozambique,688,LIC,AFR,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Myanmar,Myanmar,518,LIC,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Namibia,Namibia,728,EM,AFR,0,ZAF,0,0,0,0,0,0,0,1,0,1,0,1
+Nauru,Nauru,836,EM,APD,0,AUD,0,0,0,0,0,0,1,0,0,1,0,1
+Nepal,Nepal,558,LIC,APD,0,INR,0,0,0,0,0,0,0,0,1,1,0,1
+Netherlands,Netherlands,138,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+New Zealand,New Zealand,196,AE,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,0
+Nicaragua,Nicaragua,278,LIC,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Niger,Niger,692,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Nigeria,Nigeria,694,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Norway,Norway,142,AE,EUR,0,EUR,1,0,0,0,0,0,0,0,0,0,0,0
+Oman,Oman,449,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Pakistan,Pakistan,564,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Palau,Palau,565,EM,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Panama,Panama,283,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Papua New Guinea,Papua New Guinea,853,LIC,APD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Paraguay,Paraguay,288,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Peru,Peru,293,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Philippines,Philippines,566,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Poland,Poland,964,EM,EUR,0,EUR,1,0,0,0,0,0,0,0,0,0,0,1
+Portugal,Portugal,182,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Qatar,Qatar,453,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Romania,Romania,968,EM,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,1
+Russia,Russia,922,EM,EUR,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Rwanda,Rwanda,714,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Samoa,Samoa,862,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+San Marino,San Marino,135,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+São Tomé and Príncipe,Sao Tome and Príncipe,716,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Saudi Arabia,Saudi Arabia,456,EM,MCD,1,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Senegal,Senegal,722,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Serbia,Serbia,942,EM,EUR,0,EUR,0,0,0,0,0,0,0,0,0,0,0,1
+Seychelles,Seychelles,718,EM,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Sierra Leone,Sierra Leone,724,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Singapore,Singapore,576,AE,APD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Slovakia,Slovakia,936,AE,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,0
+Slovenia,Slovenia,961,AE,EUR,0,EUR,1,0,0,0,0,1,0,0,0,1,0,0
+Solomon Islands,Solomon Islands,813,LIC,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Somalia,Somalia,726,LIC,AFR,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+South Africa,South Africa,199,EM,AFR,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+South Sudan,South Sudan,733,EM,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Spain,Spain,184,AE,EUR,0,USD,1,0,0,0,0,1,0,0,0,1,0,0
+Sri Lanka,Sri Lanka,524,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+St. Kitts and Nevis,St. Kitts and Nevis,361,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+St. Lucia,St. Lucia,362,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+St. Vincent and the Grenadines,St. Vincent and the Grenadines,364,EM,WHD,0,USD,0,0,0,1,1,0,0,0,0,1,0,1
+Sudan,Sudan,732,LIC,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Suriname,Suriname,366,EM,WHD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Eswatini,Eswatini,734,EM,AFR,0,ZAF,0,0,0,0,0,0,0,1,0,0,1,1
+Sweden,Sweden,144,AE,EUR,0,EUR,1,0,0,0,0,0,0,0,0,0,0,0
+Switzerland,Switzerland,146,AE,EUR,0,EUR,1,0,0,0,0,0,0,0,0,0,0,1
+Syria,Syria,463,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Taiwan Province of China,Taiwan Province of China,528,AE,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Tajikistan,Tajikistan,923,LIC,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Tanzania,Tanzania,738,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Thailand,Thailand,578,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+"Timor-Leste, Democratic Republic of",Timor-Leste,537,LIC,APD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Togo,Togo,742,LIC,AFR,0,EUR,0,0,1,0,0,1,0,0,0,1,0,0
+Tonga,Tonga,866,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Trinidad and Tobago,Trinidad and Tobago,369,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Tunisia,Tunisia,744,EM,MCD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Turkiye,Turkiye,186,EM,EUR,1,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Turkmenistan,Turkmenistan,925,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Tuvalu,Tuvalu,869,EM,APD,0,AUD,0,0,0,0,0,0,1,0,0,1,0,1
+Uganda,Uganda,746,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Ukraine,Ukraine,926,EM,EUR,0,EUR,0,0,0,0,0,0,0,0,0,0,0,1
+United Arab Emirates,UAE,466,EM,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+United Kingdom,UK,112,AE,EUR,1,USD,0,0,0,0,0,0,0,0,0,0,0,0
+United States,US,111,AE,WHD,1,USD,0,0,0,0,0,0,0,0,0,0,0,0
+Uruguay,Uruguay,298,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,0,1
+Uzbekistan,Uzbekistan,927,LIC,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Vanuatu,Vanuatu,846,EM,APD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Venezuela,Venezuela,299,EM,WHD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Vietnam,Vietnam,582,LIC,APD,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+"Yemen, Republic of",Yemen,474,LIC,MCD,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
+Zambia,Zambia,754,LIC,AFR,0,USD,0,0,0,0,0,0,0,0,0,0,1,1
+Zimbabwe,Zimbabwe,698,LIC,AFR,0,USD,0,0,0,0,1,0,0,0,0,1,0,1
