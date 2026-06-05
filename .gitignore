@@ -1,0 +1,11 @@
+.venv/
+.matplotlib-cache/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Generated analysis outputs
+Output*/
+
+# Local/private data inputs
+fiscal_data_HF_monthly_*.csv
